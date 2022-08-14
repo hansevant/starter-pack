@@ -1,4 +1,4 @@
-# hello-wordl
+# hello-world
 
 ## Project setup
 ```
